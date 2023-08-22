@@ -1,10 +1,15 @@
 span {
-    display: inline-block;
-    background-color: lightblue;
-    padding: 5px;
-    border: 1px solid darkgray;
-  } 
-  /* 
+  display: inline-block;
+  background-color: lightblue;
+  padding: 5px;
+  border: 1px solid darkgray;
+}
+
+body {
+  text-align: center;
+}
+
+/* 
   #one {
     background-color:lightblue;
     width: 150px;
@@ -22,8 +27,8 @@ span {
     width: 175px;
     height: 150px;
   } */
-  
-   /*div,
+
+/*div,
   span {
     margin: 1px;
   }
